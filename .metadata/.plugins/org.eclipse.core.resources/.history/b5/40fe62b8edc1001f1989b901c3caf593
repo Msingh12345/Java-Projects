@@ -1,0 +1,13 @@
+package com.jsp.springboot.actordb.utility;
+
+public class ResponseStructure {
+
+	public static <T> ResponseStructure<T> create(int status, String message, T data){
+		ResponseStructure<T> structure=new ResponseStructure<>();
+		structure.setData(data);
+		structure.setMessage(message);
+		structure.setStatus(status);
+		
+		return structure;
+	}
+}

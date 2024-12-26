@@ -1,0 +1,11 @@
+1732348561118	Delete element
+1732350936226	Delete element
+1732352060989	Encapsulate field 'bikeId, ...'
+1732352070664	Encapsulate field 'bikeModel, ...'
+1732352086830	Encapsulate field 'bikeBrand, ...'
+1732352094441	Encapsulate field 'bikePrice, ...'
+1732352532540	Rename type 'BIke'
+1732358781302	Encapsulate field 'Id, ...'
+1732358787967	Encapsulate field 'Name, ...'
+1732358794489	Encapsulate field 'Brand, ...'
+1732358800539	Encapsulate field 'Price, ...'

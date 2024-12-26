@@ -1,0 +1,50 @@
+package com.jsp.springboot.actordb.utility;
+
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+import com.jsp.springboot.actordb.exception.ActorNotFoundException;
+import com.jsp.springboot.actordb.exception.UserNotFoundByIdException;
+
+@RestControllerAdvice
+public class ApplicationExceptionHandler {
+	private Map<String,Object> sendResponse(int status, String message, String rootCause){
+		return Map.of(
+				"status",404,
+				"message",message,
+				"rootcause","user not found by given id!!"
+				);
+	}
+
+	@ExceptionHandler
+	public Map<String, Object> handleUserNotFoundById(UserNotFoundByIdException ex) {
+		//return ex.getMessage();
+
+		//		Map<String, Object>m=new HashMap<String, Object>();
+		//		m.put("status", 404);
+		//		m.put("message", ex.getMessage());
+		//		m.put("rooCause", "user not found by given id");
+		//		return m;
+
+//		return Map.of(
+//				"status",404,
+//				"message",ex.getMessage(),
+//				"rootcause","user not found by given id!!"
+//				);
+		
+		return this.sendResponse(404,ex.getMessage(),"actor not found in database");
+
+
+	}
+
+//	@ExceptionHandler
+//	public Map<String, Object> handleActorNotFound(ActorNotFoundException ex) {
+
+
+//		return this.sendResponse(404,ex.getMessage(),"actor not found in database");
+
+//	}
+
+}

@@ -1,0 +1,12 @@
+package com.jsp.springboot.actordb.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+
+public class ActorRepository {
+	public interface ActorRepository extends JpaRepository<Actor, Integer>{
+		
+
+	}
+}

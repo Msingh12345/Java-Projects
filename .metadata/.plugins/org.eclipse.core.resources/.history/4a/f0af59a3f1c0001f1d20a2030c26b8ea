@@ -1,0 +1,5 @@
+package com.jsp.spring.actordb;
+
+public class SpringBootActorBdApplication {
+
+}

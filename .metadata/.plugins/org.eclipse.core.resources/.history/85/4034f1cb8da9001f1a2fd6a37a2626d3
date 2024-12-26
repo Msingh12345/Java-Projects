@@ -1,0 +1,5 @@
+package com.jsp.hibernate2;
+
+public class Car_Fetch {
+
+}

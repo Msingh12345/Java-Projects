@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.jsp.hibernet.chasing&apos; to &apos;com.jsp.hibernet.lavel1&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_Chaching&apos;&#x0D;&#x0A;- Original element: &apos;Hibernate_Chaching/src/main/java/com.jsp.hibernet.chasing&apos;&#x0D;&#x0A;- Renamed element: &apos;Hibernate_Chaching/src/main/java/com.jsp.hibernet.lavel1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.jsp.hibernet.chasing&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.hibernet.chasing" name="com.jsp.hibernet.lavel1" qualified="false" references="true" stamp="1732956941887" textual="false" version="1.0"/>
+</session>

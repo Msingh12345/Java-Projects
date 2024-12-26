@@ -1,0 +1,5 @@
+package com.jsp.springboot.actor.service;
+
+public interface ActorService {
+
+}

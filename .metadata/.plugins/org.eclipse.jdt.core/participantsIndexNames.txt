@@ -1,0 +1,25 @@
+INDEX VERSION 1.134
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4098591985.index
+\Hibernet_OneToOne\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3251423339.index
+\Hibernate_OneToMany\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2653819922.index
+\HIbernate_ManyToMany\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4235880443.index
+\Servlet_Project_JSP\src\main\java
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2603214284.index
+\Hibername_Chaching_1\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2861819939.index
+\Spring_NVC_Project02\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2205340452.index
+\Hibernate_ShopingCart\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4178162599.index
+\Spring_NVC_Project01\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3105734577.index
+\Hibernate_HqL\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\349915661.index
+\Student-Management-System\src\main\java
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\525178830.index
+\Hibernet_Project_01\src\main\resources
+D:\jspiders\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1828918403.index
+\Hibernate_JPA\src\main\resources

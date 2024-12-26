@@ -1,0 +1,30 @@
+package com.jsp.springboot.actordb.utility;
+
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+import com.jsp.springboot.actordb.exception.UserNotFoundByIdException;
+
+public class ApplicationExceptionHandler {
+
+	
+	@ExceptionHandler
+	public Map<String, Object> handleUserNotFoundById(UserNotFoundByIdException ex) {
+		//return ex.getMessage();
+		
+//		Map<String, Object>m=new HashMap<String, Object>();
+//		m.put("status", 404);
+//		m.put("message", ex.getMessage());
+//		m.put("rooCause", "user not found by given id");
+//		return m;
+		
+		return Map.of(
+				"status",404,
+				"message",ex.getMessage(),
+				"rootcause","user not found by given id"
+				);
+				
+	}
+	
+}

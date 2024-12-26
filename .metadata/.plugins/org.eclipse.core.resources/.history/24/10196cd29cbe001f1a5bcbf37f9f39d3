@@ -1,0 +1,5 @@
+package com.jsp.springboot.actor.serviceimpl;
+
+public class ActorServiceImpl {
+
+}

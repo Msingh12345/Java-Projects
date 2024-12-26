@@ -1,0 +1,13 @@
+127.0.0.1 - - [19/Nov/2024:16:55:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:16:55:47 +0530] "GET /Student-Management-System/index.jsp HTTP/1.1" 200 305
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:16:55:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:16:55:53 +0530] "GET /Student-Management-System/display-all-student HTTP/1.1" 200 981
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:16:58:41 +0530] "GET /Student-Management-System/display-all-student HTTP/1.1" 200 1432
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:16:58:43 +0530] "GET /Student-Management-System/find-by-id?studentId=%201 HTTP/1.1" 404 791
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:12:58 +0530] "GET /Student-Management-System/display-all-student HTTP/1.1" 200 1432
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:13:00 +0530] "GET /Student-Management-System/index.jsp HTTP/1.1" 200 305
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:13:03 +0530] "GET /Student-Management-System/display-all-student HTTP/1.1" 200 1432
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:13:05 +0530] "GET /Student-Management-System/find-by-id?studentId=%201 HTTP/1.1" 404 791
+127.0.0.1 - - [19/Nov/2024:17:14:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:14:42 +0530] "GET /Student-Management-System/UpdateStudent.jsp HTTP/1.1" 500 3345
+0:0:0:0:0:0:0:1 - - [19/Nov/2024:17:15:20 +0530] "GET /Student-Management-System/UpdateStudent.jsp HTTP/1.1" 500 2380

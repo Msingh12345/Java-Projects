@@ -1,0 +1,9 @@
+package com.jsp.springboot.actor.service;
+
+import com.jsp.springboot.actor.entity.Actor;
+
+public interface ActorService {
+
+	Actor addActor(Actor actor);
+
+}

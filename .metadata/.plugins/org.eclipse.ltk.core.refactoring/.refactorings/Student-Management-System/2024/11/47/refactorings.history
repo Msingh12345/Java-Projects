@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jsp.servlet.http.FundStudentById&apos; to &apos;FindStudentById&apos;&#x0D;&#x0A;- Original project: &apos;Student-Management-System&apos;&#x0D;&#x0A;- Original element: &apos;com.jsp.servlet.http.FundStudentById&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jsp.servlet.http.FindStudentById&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FundStudentById&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jsp.servlet.http{FundStudentById.java[FundStudentById" matchStrategy="1" name="FindStudentById" qualified="false" references="true" similarDeclarations="false" stamp="1732016620941" textual="false" version="1.0"/>
+</session>

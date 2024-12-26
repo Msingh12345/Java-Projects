@@ -1,0 +1,5 @@
+package com.jsp.springboot.actordb.exception;
+
+public class ActorNotFoundException {
+
+}
